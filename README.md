@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notmasmas
 - 👀 I’m interested in hockey, video games, and coding!
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning data structures
 - 📫 My discord is @masmas :)
 
 <!---
