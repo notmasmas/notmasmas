@@ -1,0 +1,15 @@
+{
+    "title": "Exemplo de Documento",
+    "author": "João da Silva",
+    "created_at": "2025-05-27T14:00:00Z",
+    "modified_at": "2025-05-27T16:30:00Z",
+    "version": "1.0",
+    "tags": [
+        "exemplo",
+        "metadados",
+        "json"
+    ],
+    "language": "pt-BR",
+    "description": "Este é um exemplo de arquivo JSON contendo metadados básicos sobre um documento.",
+    "license": "CC-BY-4.0"
+}
