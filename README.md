@@ -1,9 +1,9 @@
 # 💫 About Me:
-🎓 Sistemas de Informação @ UFSC (Universidade Federal de Santa Catarina)<br>💙 Trying to find my place in the tech world<br>💻 Low-level programming, embedded systems<br>🗒️ Lots of my repos are college assignments!<br>🏒 Hockey fan!<br><br>Fluent in 🇧🇷🇬🇧 & learning 🇩🇪!
+🎓 Sistemas de Informação @ UFSC (Universidade Federal de Santa Catarina)<br>💙 Trying to find my place in the tech world<br>💼 Currently working with data analysis and non-relational DBs<br>💻 Low-level programming, embedded systems<br>🗒️ Lots of my repos are college assignments!<br>🏒 Hockey fan!<br><br>Fluent in 🇧🇷🇬🇧 & learning 🇩🇪!
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@Wbhhvxg7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-helena-machado-melo-19703837b/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3E64JF6H) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-helena-machado-melo-19703837b/) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=plastic&logo=assemblyscript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
