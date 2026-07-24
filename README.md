@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Student @ UFSC (Universidade Federal de Santa Catarina)<br>💬 Fluent in 🇧🇷🇬🇧 & learning 🇩🇪 (A2-B1)!<br>👨‍💻 Working on back-end development (RESTful APIs, authentication)<br>🌱 Currently learning GraphQL & VueJS!<br>🏒 I'm a hockey fan!<br>
+🎓 Student @ UFSC (Universidade Federal de Santa Catarina)<br>💬 Fluent in 🇧🇷🇬🇧 & learning 🇩🇪 (A2-B1)!<br>👨‍💻 Working as a software development intern!<br>🌱 Currently learning Java & Angular!<br>🏒 I'm a hockey fan!<br>
 
 
 <!--## 🌐 Socials:
